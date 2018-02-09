@@ -1,0 +1,9 @@
+C:\Users\Павел\Documents\Visual Studio 2017\Projects\3course1termHolidays\SquareLibrary\SquareTest\bin\Debug\SquareTest.dll
+C:\Users\Павел\Documents\Visual Studio 2017\Projects\3course1termHolidays\SquareLibrary\SquareTest\bin\Debug\SquareTest.pdb
+C:\Users\Павел\Documents\Visual Studio 2017\Projects\3course1termHolidays\SquareLibrary\SquareTest\bin\Debug\nunit.framework.dll
+C:\Users\Павел\Documents\Visual Studio 2017\Projects\3course1termHolidays\SquareLibrary\SquareTest\bin\Debug\SquareLibrary.dll
+C:\Users\Павел\Documents\Visual Studio 2017\Projects\3course1termHolidays\SquareLibrary\SquareTest\bin\Debug\SquareLibrary.pdb
+C:\Users\Павел\Documents\Visual Studio 2017\Projects\3course1termHolidays\SquareLibrary\SquareTest\bin\Debug\nunit.framework.xml
+C:\Users\Павел\Documents\Visual Studio 2017\Projects\3course1termHolidays\SquareLibrary\SquareTest\obj\Debug\SquareTest.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Documents\Visual Studio 2017\Projects\3course1termHolidays\SquareLibrary\SquareTest\obj\Debug\SquareTest.dll
+C:\Users\Павел\Documents\Visual Studio 2017\Projects\3course1termHolidays\SquareLibrary\SquareTest\obj\Debug\SquareTest.pdb

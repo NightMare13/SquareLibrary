@@ -1,0 +1,5 @@
+C:\Users\Павел\Documents\Visual Studio 2017\Projects\3course1termHolidays\SquareLibrary\SquareLibrary\bin\Debug\SquareLibrary.dll
+C:\Users\Павел\Documents\Visual Studio 2017\Projects\3course1termHolidays\SquareLibrary\SquareLibrary\bin\Debug\SquareLibrary.pdb
+C:\Users\Павел\Documents\Visual Studio 2017\Projects\3course1termHolidays\SquareLibrary\SquareLibrary\obj\Debug\SquareLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Documents\Visual Studio 2017\Projects\3course1termHolidays\SquareLibrary\SquareLibrary\obj\Debug\SquareLibrary.dll
+C:\Users\Павел\Documents\Visual Studio 2017\Projects\3course1termHolidays\SquareLibrary\SquareLibrary\obj\Debug\SquareLibrary.pdb
